@@ -23,3 +23,7 @@ personne1.ajouter_ami(personne2)
 personne1.ajouter_ami(personne3)
 
 personne1.afficher_amis()
+
+
+
+
