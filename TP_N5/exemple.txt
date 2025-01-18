@@ -1,0 +1,6 @@
+Python est un langage de programmation puissant et facile a apprendre.
+ Il dispose de structures de donnees de haut niveau et permet une approche 
+ simple mais efficace de la programmation orientee objet. Parce que sa syntaxe
+  est elegante, que son typage est dynamique et qu'il est interprete,
+   Python est un langage ideal pour l'ecriture de scripts et le developpement rapide
+    d'applications dans de nombreux domaines et sur la plupart des plateformes.

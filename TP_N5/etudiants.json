@@ -1,0 +1,44 @@
+{
+   "etudiants": {
+       "Amine": {
+           "age": 20,
+           "note": 15.5
+       },
+       "Fatima": {
+           "age": 19,
+           "note": 17.0
+       },
+       "Ahmed": {
+           "age": 21,
+           "note": 14.5
+       },
+       "Youssef": {
+           "age": 18,
+           "note": 16.0
+       },
+       "Mariam": {
+           "age": 20,
+           "note": 15.0
+       },
+       "Hassan": {
+           "age": 19,
+           "note": 16.5
+       },
+       "Nadia": {
+           "age": 20,
+           "note": 18.0
+       },
+       "Karim": {
+           "age": 19,
+           "note": 15.8
+       },
+       "Soukaina": {
+           "age": 18,
+           "note": 16.2
+       },
+       "Omar": {
+           "age": 21,
+           "note": 14.8
+       }
+   }
+}
